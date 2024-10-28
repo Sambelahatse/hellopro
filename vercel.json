@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/hellopro_abtest_newform.html" }
+    { "source": "/", "destination": "/index.html" }
   ]
 }
